@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nitesh Raika
+# 👋 Hi there, I'm Nitesh Raika Mongar
 
 Welcome to my GitHub profile! I'm a **Software Developer & DevOps Engineer** with **5+ years of experience** building scalable web applications and robust infrastructure solutions.
 
